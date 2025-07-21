@@ -1,2 +1,2 @@
 "# cashcomrade" 
-this is like splitwise
+this is like splitwise appl8ication
